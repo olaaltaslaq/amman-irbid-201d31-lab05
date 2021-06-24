@@ -15,6 +15,7 @@ function sum(a, b) {
   let message = "The sum of 4 and 7 is 11."
   return [sum, message];
 }
+
 // Here is the test for sum(); uncomment it to run it
 testSum(4, 7);
 
